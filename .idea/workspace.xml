@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6a0a211-c38e-46d2-b1f8-db71de8427e6" name="Changes" comment="" />
+    <list default="true" id="f6a0a211-c38e-46d2-b1f8-db71de8427e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/expense-chart" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <bower-package value="" />
@@ -44,7 +48,7 @@
     &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/usr/local/lib/node_modules/npm/lib/node_modules/prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.rainbow.brackets&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -92,6 +96,14 @@
       <workItem from="1663833701607" duration="4448000" />
       <workItem from="1663838198488" duration="318000" />
       <workItem from="1663838530438" duration="396000" />
+      <workItem from="1663838929134" duration="1425000" />
+      <workItem from="1663925212575" duration="346000" />
+      <workItem from="1663930747028" duration="38000" />
+      <workItem from="1663945545448" duration="888000" />
+      <workItem from="1664098697819" duration="14000" />
+      <workItem from="1664379041973" duration="187000" />
+      <workItem from="1664458828721" duration="95000" />
+      <workItem from="1664458930414" duration="1285000" />
     </task>
     <servers />
   </component>
